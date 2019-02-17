@@ -5,7 +5,7 @@ module.exports = {
     name: 'steem-node-exchange-tool',
     description: 'steem dapp官方全节点切换工具（Chrome插件版）',
     author: 'liuzhixiang（lzx215）',
-    version: '1.0.1',
+    version: '1.0.1.1',
     icons: {
         '16': 'icons/icon16.png',
         '128': 'icons/icon128.png'

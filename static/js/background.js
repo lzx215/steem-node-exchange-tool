@@ -23,10 +23,7 @@ chrome.webRequest.onHeadersReceived.addListener(
         })
     }),
     {
-        urls: [
-            "*://*.steemconnect.com/*",
-            "*://steemconnect.com/*"
-        ]
+        urls: ['<all_urls>']
     },
     [
         "blocking",
